@@ -1,5 +1,5 @@
 # flutter_app_puc_tcc
-A boiler plate app in flutter
+A boilerplate app in flutter
 
 ### Curso:
 * Pós-Graduação em Desenvolvimento de aplicativos móveis - PUCPR
@@ -64,7 +64,7 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 
 ### Diagrama de Classes de Domínio
 
-A ideia do diagrama de classes de domínio é fornecer um documentação enxuta que será utilizada como ponto de partida para o desenvolvimento do projeto, sem a preocupação com os demais detalhes da UML.
+A ideia do diagrama de classes de domínio é fornecer uma documentação enxuta que será utilizada como ponto de partida para o desenvolvimento do projeto, sem a preocupação com os demais detalhes da UML.
 
     ![diagrama](./docs/diagrama_classes_dominio.png)
 
@@ -75,7 +75,22 @@ O foco da interface é trazer telas funcionais e intuitivas para o usuário.
     <img src="./docs/Telas.png" width="1080px" alt="Telas do projeto"/>
 
 
-#### Processo de Desenvolvimento de Software - PDS
+### Padrão Arquitetural
+
+Foi utilizado o padrão de arquitetura MVVM (Model-View-ViewModel) para a construção do projeto.
+
+### Cobertura de Testes
+
+A cobertura de testes foi de XX%
+
+### Boas práticas aplicadas
+
+* Clean Code
+* SOLID
+* Injeção de Dependências
+* Design Patterns
+
+### Processo de Desenvolvimento de Software - PDS
 
 O PDS segue a metodologia ágil sendo uma abordagem interativa incremental.
 
